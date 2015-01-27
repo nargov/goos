@@ -10,7 +10,7 @@ To build the project you'll have to be in the Wix network. This is because the s
 
 Setting up Openfire
 ===================
-Download the openfire tarball [here]("http://www.igniterealtime.org/downloads/download-landing.jsp?file=openfire/openfire_3_9_3.tar.gz").
+Download the openfire tarball [here](http://www.igniterealtime.org/downloads/download-landing.jsp?file=openfire/openfire_3_9_3.tar.gz).
 
 Expand:
 ```
