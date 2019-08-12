@@ -1,6 +1,6 @@
 # goos
 
-A Scala implementation of Growing Object-Oriented Programming, Guided by Tests
+A Scala implementation of ["Growing Object-Oriented Software, Guided by Tests" (Nat Pryce & Steve Freeman)](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
 
 ## Setup
 
